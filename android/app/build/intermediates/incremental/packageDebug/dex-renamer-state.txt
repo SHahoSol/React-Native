@@ -1,4 +1,4 @@
-#Sun Apr 22 22:41:53 EEST 2018
+#Tue May 29 14:16:14 EEST 2018
 base.0=C\:\\Users\\Shaho\\Desktop\\RNacademind\\Locate\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=C\:\\Users\\Shaho\\Desktop\\RNacademind\\Locate\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
